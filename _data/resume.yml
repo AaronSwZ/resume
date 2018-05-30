@@ -1,0 +1,38 @@
+title: 施工中🚧的简历
+name: Lu jie
+location: 北京
+jobtitle: 一年运营经验
+contact:
+  - icon: fa-envelope
+    text: hellolujie@qq.com
+  - icon: fa-phone-square
+    text: None
+  - icon: fa-globe
+    text: aaronswz.github.io
+  - icon: fa-github
+    text: https://github.com/AaronSwZ
+experience:
+  - title: 课程格子社区运营
+    duration: Jun 2015 - Jun 2016
+    company: CreatingEV Inc.
+    description: 负责用户活跃&社交模块转型
+projects:
+  - name: 全民校花 2015
+    description: 预热倒计时期间开赛紧急延期十天，结合产品当前主推的电商模块，策划「为格子君充颜值」活动作为过渡，定价0.01元。售出3293份，意外收入251.37元
+    contribution: 负责从预热到输出的策划&执行
+  - name: 开学许愿日
+    description: 根据开学节点，策划「新学期许愿池」预热活动，最高日发帖150+，热度持续30天
+    contribution: 负责配合商务部门履行赞助商权益，线上活动策划
+  - name: 国民校草 2016
+    description: 提前两周完成各时间节点活动策划，协调设计部门完成设计稿并转交广告主审阅。其中儿童节活动，通过KOL沟通预热，掀起「童年PK」热潮，上千名同学榜内外PK
+    contribution: 负责线上整体策划执行
+education:
+  - university: Hubei Polytechnic University
+    duration: Sep 2012 - Jun 2016
+    location: 16 GuiLinBei Road,XiaLu District,Huangshi City,Hubei Prov,China,435003
+    major: Computer Science and Technology
+languages:
+  - name: English
+    proficiency: CET-4
+  - name: Mandarin Chinese
+    proficiency: Native
